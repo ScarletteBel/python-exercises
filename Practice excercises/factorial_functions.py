@@ -5,7 +5,7 @@ Created on Tue Sep 28 16:53:02 2021
 @author: scarb
 """
 
-# Few ways to getting factorial 
+# Few ways to get factorial 
 
 print (4*3*2*1)
 
